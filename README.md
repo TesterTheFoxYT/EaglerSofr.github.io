@@ -1,1 +1,1 @@
-[PLAY](https://testerthefoxyt.github.io/EaglerSofr.github.io/)
+[PLAY(BETA)](https://testerthefoxyt.github.io/EaglerSofr.github.io/)
